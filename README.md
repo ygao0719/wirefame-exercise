@@ -1,1 +1,3 @@
 # wirefame-exercise
+
+building a professional-style wireframe document, to a provided spec, using just HTML and CSS. This workflow is similar to what you would encounter in an environment where there is a designer on the team: the designer creates a design comp (short for comprehensive) that shows you what the final version should look like, plus, a document with annotations about specific sizes and features
